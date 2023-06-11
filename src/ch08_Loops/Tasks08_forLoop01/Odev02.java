@@ -1,4 +1,4 @@
-package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop001;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop01;
 
 public class Odev02 {
 
