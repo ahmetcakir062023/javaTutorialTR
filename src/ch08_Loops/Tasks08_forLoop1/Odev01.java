@@ -1,4 +1,4 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop1;
 
 public class Odev01 {
 
@@ -8,6 +8,12 @@ public class Odev01 {
         //Not: 0 ve 100 dahildir.
 
         //Kodu aşağıya yazınız.
+        int toplam=0;
+        for (int i = 0; i <= 100; i+=2) {
+            toplam+=i;
+
+        }
+        System.out.println("toplam = " + toplam);
 
 
     }

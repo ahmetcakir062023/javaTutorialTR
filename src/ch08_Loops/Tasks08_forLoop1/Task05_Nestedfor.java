@@ -1,6 +1,6 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop1;
 
-public class Task05_Nested {
+public class Task05_Nestedfor {
     public static void main(String[] args) {
         /*
         task-> girilen boyutta kare çarpım tablosu print eden code create ediniz
@@ -13,6 +13,12 @@ public class Task05_Nested {
 
        5x5
          */
+        for (int i = 1; i <=5; i++) {
+            for (int j = 1; j <=5 ; j++) {
+                System.out.print((i * j)+"  ");
+            }
+            System.out.println();
+        }
 
 
 

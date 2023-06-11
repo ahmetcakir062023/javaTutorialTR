@@ -1,4 +1,4 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop1;
 
 public class Task02_Nested {
     public static void main(String[] args) {
@@ -12,6 +12,12 @@ public class Task02_Nested {
         şekli print eden code create ediniz
          */
 
+        for (int i = 1; i <=6 ; i++) {
+            System.out.println(" ");
+            for (int j = 1; j <=5 ; j++) {
+                System.out.print("# ");
 
+            }
+        }
     }
 }

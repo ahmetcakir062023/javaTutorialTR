@@ -1,4 +1,4 @@
-package ch08_Loops.Tasks08_forLoop;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop1;
 
 public class Odev02 {
 
@@ -11,6 +11,12 @@ public class Odev02 {
          */
 
         //Kodu aşağıya yazınız.
+        for (int i = 0; i <=100 ; i++) {
+            if (i%4==0&&i%5==0){
+                System.out.println("i = " + i);
+            }
+
+        }
 
 
 
