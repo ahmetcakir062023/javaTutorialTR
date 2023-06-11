@@ -1,4 +1,4 @@
-package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop01;
+package javaTutorialTR.src.ch08_Loops.Tasks08_forLoop002;
 
 public class Task05_Nestedfor {
     public static void main(String[] args) {
